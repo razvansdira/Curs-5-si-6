@@ -5,6 +5,10 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+
+// COURSE 6 EXERCISE 8 AND 9
+
+
 namespace ProjectManagement.Controllers
 {
     public class HomeController : Controller
